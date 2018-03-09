@@ -29,4 +29,4 @@ remote.origin.url=C:project
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
-File contained 102 lines
+ THE File contained 102 lines
