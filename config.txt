@@ -17,7 +17,7 @@ filter.lfs.process=git-lfs filter-process
 filter.lfs.required=true
 credential.helper=manager
 user.email=taavet.simo@gmail.com
-user.name=Taavet
+user.name= 
 core.editor=notepad
 core.repositoryformatversion=0
 core.filemode=false
@@ -29,3 +29,4 @@ remote.origin.url=C:project
 remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
 branch.master.remote=origin
 branch.master.merge=refs/heads/master
+File contained 102 lines
